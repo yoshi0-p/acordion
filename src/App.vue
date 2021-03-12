@@ -1,7 +1,7 @@
 <template>
  <div>
   <div class="gray flame">
-    <p v-on:click= "acr" >アコーディオン</p>
+    <button v-on:click= "acr" >アコーディオン</button>
   </div>
   <div class= "white flame" v-if = "acr">
   </div>
