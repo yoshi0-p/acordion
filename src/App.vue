@@ -12,6 +12,7 @@
 .flame{
   height:50px;
   width:400px;
+  border: medium solid #000000;
 }
 .gray{
   background-color:gray;
